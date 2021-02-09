@@ -5,7 +5,7 @@ Hi, my name is Manuel.</br>
 </br>
 I'm prepress technician, i always liked computers and programming, but couldn't study it, now I'm studying at 42Madrid.</br>
 
-[Linkedin](https://www.linkedin.com/in/manuel-rubio-arias-845504142/)</br>
+[Linkedin](www.linkedin.com/in/manuelrubioarias)</br>
 
 ## 42_School </br>
 
