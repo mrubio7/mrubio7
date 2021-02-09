@@ -1,7 +1,6 @@
 
-# About me</br>
+# Hello, I am Manuel Rubio Arias</br>
 
-Hi, my name is Manuel.</br>
 </br>
 I'm prepress technician, i always liked computers and programming, but couldn't study it, now I'm studying at 42Madrid.</br>
 
