@@ -5,11 +5,13 @@ Hi, my name is Manuel.</br>
 </br>
 I'm prepress technician, i always liked computers and programming, but couldn't study it, now I'm studying in 42Madrid, this are my stats:</br>
 </br>
-### 42_School</br>
+
+### 42_School </br>
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mrubio)](https://github.com/JaeSeoKim/badge42)
 </br>
-##### 42Madrid - Projects</br>
+
+#### 42Madrid - Projects </br>
 
 libft - 
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/Libft)](https://github.com/JaeSeoKim/badge42)</br>
