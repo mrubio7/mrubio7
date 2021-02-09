@@ -6,7 +6,8 @@ Hi, my name is Manuel.</br>
 I'm prepress technician, i always liked computers and programming, but couldn't study it, now I'm studying in 42Madrid, this are my stats:</br>
 </br>
 ### 42_School</br>
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mrubio)](https://github.com/JaeSeoKim/badge42)]
+
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mrubio)](https://github.com/JaeSeoKim/badge42)
 </br>
 ##### 42Madrid - Projects</br>
 
