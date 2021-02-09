@@ -11,13 +11,13 @@ I'm prepress technician, i always liked computers and programming, but couldn't 
 ##### 42Madrid - Projects</br>
 
 libft - 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/Libft)](https://github.com/JaeSeoKim/badge42)]
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/Libft)](https://github.com/JaeSeoKim/badge42)</br>
 get_next_line - 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/get_next_line)](https://github.com/JaeSeoKim/badge42)]
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/get_next_line)](https://github.com/JaeSeoKim/badge42)</br>
 ft_server - 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_server)](https://github.com/JaeSeoKim/badge42)]
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_server)](https://github.com/JaeSeoKim/badge42)</br>
 ft_printf -
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_printf)](https://github.com/JaeSeoKim/badge42)]
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_printf)](https://github.com/JaeSeoKim/badge42)</br>
 cub3d - 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/cub3D)](https://github.com/JaeSeoKim/badge42)]
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/cub3D)](https://github.com/JaeSeoKim/badge42)</br>
 
