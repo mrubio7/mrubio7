@@ -9,8 +9,12 @@ I'm prepress technician, i always liked computers and programming, but couldn't 
 
 ## 42_School </br>
 
+42 is a private, nonprofit and tuition-free computer programming school created and funded in France in 2013. In addition to the two official campuses in Paris, France and Fremont, California, the school model was adopted also in Madrid, where I am studying.
+
+This are my stats:
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mrubio)](https://github.com/JaeSeoKim/badge42)
 </br>
+
 
 ### 42Madrid - Projects </br>
 
