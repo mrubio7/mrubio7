@@ -2,7 +2,10 @@
 # About me</br>
 
 Hi, my name is Manuel.</br>
-I'm prepress technician, i always liked computers and programming, but couldn't study it, now I'm studying in 42Madrid, this are my stats:</br>
+</br>
+I'm prepress technician, i always liked computers and programming, but couldn't study it, now I'm studying in 42Madrid.</br>
+
+[Linkedin](https://www.linkedin.com/in/manuel-rubio-arias-845504142/)</br>
 
 ## 42_School </br>
 
