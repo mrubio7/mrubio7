@@ -24,5 +24,5 @@ These are my stats:</br>
 |[get_next_line](https://github.com/mrubio7/42_get_next_line)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/get_next_line)](https://github.com/JaeSeoKim/badge42)|
 |[ft_server](https://github.com/mrubio7/42_server) |[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_server)](https://github.com/JaeSeoKim/badge42)|
 |[ft_printf](https://github.com/mrubio7/42_printf)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_printf)](https://github.com/JaeSeoKim/badge42)|
-|[cub3D](https://github.com/mrubio7/42_cub3D)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/cub4d)](https://github.com/JaeSeoKim/badge42)|
+|[cub3D](https://github.com/mrubio7/42_cub3D)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/cub3d)](https://github.com/JaeSeoKim/badge42)|
 |[libasm](https://github.com/mrubio7/libasm)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/libasm)](https://github.com/JaeSeoKim/badge42)|
