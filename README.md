@@ -22,7 +22,7 @@ These are my stats:</br>
 |PROJECT|GRADE|DESCRIPTION|
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-------:|
 |[LIBFT](https://github.com/mrubio7/42_libft)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/Libft)](https://github.com/JaeSeoKim/badge42)|Library of functions|
-|Netwhat|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/exam_rank_02)](https://github.com/JaeSeoKim/badge42)|Basic Exam of networks|
+|Netwhat|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/netwhat)](https://github.com/JaeSeoKim/badge42)|Basic Exam of networks|
 |[get_next_line](https://github.com/mrubio7/42_get_next_line)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/get_next_line)](https://github.com/JaeSeoKim/badge42)|
 |[ft_server](https://github.com/mrubio7/42_server) |[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_server)](https://github.com/JaeSeoKim/badge42)|
 |[ft_printf](https://github.com/mrubio7/42_printf)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_printf)](https://github.com/JaeSeoKim/badge42)|
