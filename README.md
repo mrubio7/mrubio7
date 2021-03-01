@@ -19,7 +19,7 @@ These are my stats:</br>
 
 ### 42Madrid - Projects </br>
 
-|PROJECT|GRADE|KEYWORDS|
+|PROJECT|GRADE|KNOWLEDGE|
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-------:|
 |[LIBFT](https://github.com/mrubio7/42_libft)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/Libft)](https://github.com/JaeSeoKim/badge42)|`makefile` `library` **`C`**|
 |Netwhat|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/netwhat)](https://github.com/JaeSeoKim/badge42)|`network` `OSI protocols` `TCP/IP`|
