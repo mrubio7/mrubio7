@@ -14,7 +14,7 @@ These are my stats:</br>
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mrubio?darkmode=true)](https://github.com/JaeSeoKim/badge42)
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrubio7&show_icons=true&theme=dark)
 
 ### 42Madrid - Projects </br>
 
