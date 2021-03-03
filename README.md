@@ -4,7 +4,8 @@
 </br>
 I'm 26, and work as prepress technician, i always liked computers and programming, but couldn't study it, now I'm studying at 42Madrid.</br>
 
-[Linkedin](www.linkedin.com/in/manuelrubioarias)</br>
+[Linkedin](www.linkedin.com/in/manuelrubioarias)
+</br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrubio7&show_icons=true&theme=dark)
 
