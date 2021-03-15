@@ -9,7 +9,9 @@ I'm 26, and work as prepress technician, i always liked computers and programmin
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrubio7&repo=42_services&theme=dark)
 
 </br>
+
 [Linkedin](www.linkedin.com/in/manuelrubioarias)
+
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrubio7&show_icons=true&theme=dark)
