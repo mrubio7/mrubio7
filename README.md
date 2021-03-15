@@ -1,8 +1,12 @@
 
-# Hello, I am Manuel Rubio Arias</br>
+# 👋 Hello, I am Manuel Rubio Arias</br>
 
 </br>
 I'm 26, and work as prepress technician, i always liked computers and programming, but couldn't study it, now I'm studying at 42Madrid.</br>
+
+🚀 Now im working on:
+
+
 
 [Linkedin](www.linkedin.com/in/manuelrubioarias)
 </br>
