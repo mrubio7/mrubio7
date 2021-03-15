@@ -10,7 +10,7 @@
 🚀 Now im working on:
 </br>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrubio7&repo=42_services&theme=dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrubio7&repo=42_services&theme=dark)](https://github.com/mrubio7/42_services)
 
 </br>
 
