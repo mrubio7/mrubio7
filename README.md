@@ -3,14 +3,11 @@
 
 </br>
 I'm 26, and work as prepress technician, i always liked computers and programming, but couldn't study it, now I'm studying at 42Madrid.</br>
-
+</br>
 🚀 Now im working on:</br>
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrubio7&repo=42_services&theme=dark)
-
-
-
-
-[Linkedin](www.linkedin.com/in/manuelrubioarias)
+</br>
+My [Linkedin](www.linkedin.com/in/manuelrubioarias)
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrubio7&show_icons=true&theme=dark)
