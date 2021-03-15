@@ -2,7 +2,7 @@
 # 👋 Hello, I am Manuel Rubio Arias</br>
 
 </br>
-I'm 26, and work as prepress technician, i always liked computers and programming, but couldn't study it, now I'm studying at 42Madrid.</br>
+👨‍💻 I'm 26, and work as prepress technician, i always liked computers and programming, but couldn't study it, now I'm studying at 42Madrid.</br>
 </br>
 🚀 Now im working on:</br>
 
