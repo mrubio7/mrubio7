@@ -17,8 +17,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrubio7&show_icons=true&theme=dark)
 
 ## Own Projects
-|[![ProjectCalculoLomo](https://github-readme-stats.vercel.app/api/pin/?username=mrubio7&repo=Calculo-Lomo&theme=dark&show_icons=true)](https://github.com/mrubio7/Calculo-Lomo)|[![Problems-Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=mrubio7&repo=Problems-Algorithms&theme=dark&show_icons=true)](https://github.com/mrubio7/Problems-Algorithms)|
-|---|---|
+[![ProjectCalculoLomo](https://github-readme-stats.vercel.app/api/pin/?username=mrubio7&repo=Calculo-Lomo&theme=dark&show_icons=true)](https://github.com/mrubio7/Calculo-Lomo)
+&nbsp; &nbsp; [![Problems-Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=mrubio7&repo=Problems-Algorithms&theme=dark&show_icons=true)](https://github.com/mrubio7/Problems-Algorithms)
 
 ## 42_School </br>
 
