@@ -16,6 +16,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrubio7&show_icons=true&theme=dark)
 
+## Own Projects
+|[![ProjectCalculoLomo](https://github-readme-stats.vercel.app/api/pin/?username=mrubio7&repo=Calculo-Lomo&theme=dark&show_icons=true)](https://github.com/mrubio7/Calculo-Lomo)|[![Problems-Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=mrubio7&repo=Problems-Algorithms&theme=dark&show_icons=true)](https://github.com/mrubio7/Problems-Algorithms)|
+|---|---|
+
 ## 42_School </br>
 
 42 is a private, nonprofit and tuition-free computer programming school created and funded in France in 2013. In addition to the two official campuses in Paris, France and Fremont, California, the school model was adopted also in Madrid, where I am studying.</br>
@@ -38,6 +42,3 @@ These are my stats:</br>
 |[ft_services](https://github.com/mrubio7/42_services)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_services)](https://github.com/JaeSeoKim/badge42)|`kubernetes` `yaml` `services` `load balancer` `alpine`|
 |[libasm](https://github.com/mrubio7/libasm)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/libasm)](https://github.com/JaeSeoKim/badge42)|`assembly` `nasm` `intel syntax` `x86_64`|
 
-## Own Projects
-
-[![ProjectCalculoLomo](https://github-readme-stats.vercel.app/api/pin/?username=mrubio7&repo=Calculo-Lomo&theme=dark&show_icons=true)](https://github.com/mrubio7/Calculo-Lomo)
