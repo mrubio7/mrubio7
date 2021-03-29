@@ -5,7 +5,7 @@
 👨‍💻 I'm 26, and work as prepress technician, i always liked computers and programming, but couldn't study it, now i'm studying at 42Madrid.</br>
 </br>
 
-[Linkedin](www.linkedin.com/in/manuelrubioarias)
+[Linkedin](http://www.linkedin.com/in/manuelrubioarias)
 
 🚀 Now im working on:
 </br>
