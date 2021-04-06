@@ -40,5 +40,5 @@ These are my stats:</br>
 |[ft_printf](https://github.com/mrubio7/42_printf)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_printf)](https://github.com/JaeSeoKim/badge42)|`variadic arguments` `structs` **`C`**|
 |[cub3D](https://github.com/mrubio7/42_cub3D)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/cub3d)](https://github.com/JaeSeoKim/badge42)|`graphics` `raycast` `linked structs` `bitwise` **`C`**|
 |[ft_services](https://github.com/mrubio7/42_services)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_services)](https://github.com/JaeSeoKim/badge42)|`kubernetes` `yaml` `services` `load balancer` `alpine`|
-|[libasm](https://github.com/mrubio7/libasm)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/libasm)](https://github.com/JaeSeoKim/badge42)|`assembly` `nasm` `intel syntax` `x86_64`|
+|[libasm](https://github.com/mrubio7/42_libasm)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/libasm)](https://github.com/JaeSeoKim/badge42)|`assembly` `nasm` `intel syntax` `x86_64`|
 
