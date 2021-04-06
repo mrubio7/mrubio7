@@ -36,9 +36,9 @@ These are my stats:</br>
 |[LIBFT](https://github.com/mrubio7/42_libft)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/Libft)](https://github.com/JaeSeoKim/badge42)|`C Language`|
 |Netwhat|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/netwhat)](https://github.com/JaeSeoKim/badge42)|`network exam`|
 |[get_next_line](https://github.com/mrubio7/42_get_next_line)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/get_next_line)](https://github.com/JaeSeoKim/badge42)|`C Language`|
-|[ft_server](https://github.com/mrubio7/42_server) |[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_server)](https://github.com/JaeSeoKim/badge42)|`docker`|
+|[ft_server](https://github.com/mrubio7/42_server) |[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_server)](https://github.com/JaeSeoKim/badge42)|`Docker`|
 |[ft_printf](https://github.com/mrubio7/42_printf)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_printf)](https://github.com/JaeSeoKim/badge42)|`C Language`|
-|[cub3D](https://github.com/mrubio7/42_cub3D)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/cub3d)](https://github.com/JaeSeoKim/badge42)|`C Language` `Game`|
-|[ft_services](https://github.com/mrubio7/42_services)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_services)](https://github.com/JaeSeoKim/badge42)|`kubernetes`|
+|[cub3D](https://github.com/mrubio7/42_cub3D)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/cub3d)](https://github.com/JaeSeoKim/badge42)|`C Language`|
+|[ft_services](https://github.com/mrubio7/42_services)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_services)](https://github.com/JaeSeoKim/badge42)|`Kubernetes`|
 |[libasm](https://github.com/mrubio7/42_libasm)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/libasm)](https://github.com/JaeSeoKim/badge42)|`Assembly Language`|
 
