@@ -33,12 +33,12 @@ These are my stats:</br>
 
 |PROJECT|GRADE|KNOWLEDGE|
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-------:|
-|[LIBFT](https://github.com/mrubio7/42_libft)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/Libft)](https://github.com/JaeSeoKim/badge42)|`makefile` `library` **`C`**|
-|Netwhat|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/netwhat)](https://github.com/JaeSeoKim/badge42)|`network` `OSI protocols` `TCP/IP`|
-|[get_next_line](https://github.com/mrubio7/42_get_next_line)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/get_next_line)](https://github.com/JaeSeoKim/badge42)|`open` `read` `file descriptors` `static variables` **`C`**|
-|[ft_server](https://github.com/mrubio7/42_server) |[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_server)](https://github.com/JaeSeoKim/badge42)|`docker` `dockerfile` `nginx` `MySQL` `wordpress`|
-|[ft_printf](https://github.com/mrubio7/42_printf)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_printf)](https://github.com/JaeSeoKim/badge42)|`variadic arguments` `structs` **`C`**|
-|[cub3D](https://github.com/mrubio7/42_cub3D)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/cub3d)](https://github.com/JaeSeoKim/badge42)|`graphics` `raycast` `linked structs` `bitwise` **`C`**|
-|[ft_services](https://github.com/mrubio7/42_services)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_services)](https://github.com/JaeSeoKim/badge42)|`kubernetes` `yaml` `services` `load balancer` `alpine`|
-|[libasm](https://github.com/mrubio7/42_libasm)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/libasm)](https://github.com/JaeSeoKim/badge42)|`assembly` `nasm` `intel syntax` `x86_64`|
+|[LIBFT](https://github.com/mrubio7/42_libft)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/Libft)](https://github.com/JaeSeoKim/badge42)|`C Language`|
+|Netwhat|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/netwhat)](https://github.com/JaeSeoKim/badge42)|`network exam`|
+|[get_next_line](https://github.com/mrubio7/42_get_next_line)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/get_next_line)](https://github.com/JaeSeoKim/badge42)|`C Language`|
+|[ft_server](https://github.com/mrubio7/42_server) |[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_server)](https://github.com/JaeSeoKim/badge42)|`docker`|
+|[ft_printf](https://github.com/mrubio7/42_printf)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_printf)](https://github.com/JaeSeoKim/badge42)|`C Language`|
+|[cub3D](https://github.com/mrubio7/42_cub3D)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/cub3d)](https://github.com/JaeSeoKim/badge42)|`C Language` `Game`|
+|[ft_services](https://github.com/mrubio7/42_services)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_services)](https://github.com/JaeSeoKim/badge42)|`kubernetes`|
+|[libasm](https://github.com/mrubio7/42_libasm)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/libasm)](https://github.com/JaeSeoKim/badge42)|`Assembly Language`|
 
