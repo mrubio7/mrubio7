@@ -12,7 +12,6 @@
 </br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrubio7&repo=42_libasm&theme=dark&show_icons=true)](https://github.com/mrubio7/42_libasm)
-
 </br>
 
 ## Own Projects
