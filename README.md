@@ -10,8 +10,11 @@
 🚀 Now im working on:
 
 </br>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrubio7&repo=42_libasm&theme=dark&show_icons=true)](https://github.com/mrubio7/42_libasm)
+
 </br>
+
 ## Own Projects
 [![ProjectCalculoLomo](https://github-readme-stats.vercel.app/api/pin/?username=mrubio7&repo=Calculo-Lomo&theme=dark&show_icons=true)](https://github.com/mrubio7/Calculo-Lomo)
 &nbsp; &nbsp; [![Problems-Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=mrubio7&repo=Problems-Algorithms&theme=dark&show_icons=true)](https://github.com/mrubio7/Problems-Algorithms)
