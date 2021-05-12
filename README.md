@@ -2,17 +2,13 @@
 # 👋 Hello, I am Manuel Rubio Arias</br>
 
 </br>
-👨‍💻 I'm 26, and work as prepress technician, i always liked computers and programming, but couldn't study it, now i'm studying at 42Madrid.</br>
+👨‍💻 I'm 26, and i love programing.</br>
+
 </br>
 
 [Linkedin](http://www.linkedin.com/in/manuelrubioarias)
 
 🚀 Now im working on:
-
-</br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrubio7&repo=42_libasm&theme=dark&show_icons=true)](https://github.com/mrubio7/42_libasm)
-</br>
 
 ## Own Projects
 [![ProjectCalculoLomo](https://github-readme-stats.vercel.app/api/pin/?username=mrubio7&repo=Calculo-Lomo&theme=dark&show_icons=true)](https://github.com/mrubio7/Calculo-Lomo)
