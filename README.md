@@ -2,7 +2,7 @@
 # 👋 Hello, I am Manuel Rubio Arias</br>
 
 </br>
-👨‍💻 I'm 26, and i love programing.</br>
+👨‍💻 I'm 26, and I love programing.</br>
 
 </br>
 
