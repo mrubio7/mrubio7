@@ -34,6 +34,7 @@ These are my stats:</br>
 |Born2beroot|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/Born2beroot)](https://github.com/JaeSeoKim/badge42)|`VM`|
 |[ft_printf](https://github.com/mrubio7/42_printf)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_printf)](https://github.com/JaeSeoKim/badge42)|`C Language`|
 |[cub3D](https://github.com/mrubio7/42_cub3D)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/cub3d)](https://github.com/JaeSeoKim/badge42)|`C Language`|
+|[Minitalk](https://github.com/mrubio7/42_minitalk)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/minitalk)](https://github.com/JaeSeoKim/badge42)|`C Language`|
 |[libasm](https://github.com/mrubio7/42_libasm)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/libasm)](https://github.com/JaeSeoKim/badge42)|`Assembly Language`|
 |[ft_services](https://github.com/mrubio7/42_services)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_services)](https://github.com/JaeSeoKim/badge42)|`Kubernetes`|
 
