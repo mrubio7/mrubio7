@@ -10,10 +10,6 @@
 
 🚀 Now im working on:
 
-## Own Projects
-[![ProjectCalculoLomo](https://github-readme-stats.vercel.app/api/pin/?username=mrubio7&repo=Calculo-Lomo&theme=dark&show_icons=true)](https://github.com/mrubio7/Calculo-Lomo)
-&nbsp; &nbsp; [![Problems-Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=mrubio7&repo=Problems-Algorithms&theme=dark&show_icons=true)](https://github.com/mrubio7/Problems-Algorithms)
-
 ## 42_School </br>
 
 42 is a private, nonprofit and tuition-free computer programming school created and funded in France in 2013. In addition to the two official campuses in Paris, France and Fremont, California, the school model was adopted also in Madrid, where I am studying.</br>
