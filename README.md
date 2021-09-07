@@ -6,10 +6,11 @@
 
 </br>
 
+🚀 I'm currently working as .NET Developer
+
 [Linkedin](http://www.linkedin.com/in/manuelrubioarias)
 
-🚀 Now im working on:<br/>
-&nbsp; &#160; &nbsp; &#160; &nbsp; &#160; &nbsp; <b>My own big project</b>
+
 
 ## 42_School </br>
 
