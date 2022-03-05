@@ -20,7 +20,7 @@
 
 |PROJECT|GRADE|KNOWLEDGE|"ABSTRACT"|
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-------:|:--|
-|[LIBFT](https://github.com/mrubio7/42_libft)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/Libft)](https://github.com/JaeSeoKim/badge42)|`C Language`|Basic C functions library|
+|[LIBFT](https://github.com/mrubio7/42_libft)|✅|`C Language`|Basic C functions library|
 |Netwhat|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/netwhat)](https://github.com/JaeSeoKim/badge42)|`Networks exam`||
 |[get_next_line](https://github.com/mrubio7/42_get_next_line)|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/get_next_line)](https://github.com/JaeSeoKim/badge42)|`C Language`|Create a function to read from files|
 |[ft_server](https://github.com/mrubio7/42_server) |[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mrubio/ft_server)](https://github.com/JaeSeoKim/badge42)|`Docker`|LEMP Server|
