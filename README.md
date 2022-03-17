@@ -7,6 +7,7 @@
 </br>
 
 🚀 I'm currently working as .NET Developer
+📘 Learning Go 
 
 [Linkedin](http://www.linkedin.com/in/manuelrubioarias)
 
