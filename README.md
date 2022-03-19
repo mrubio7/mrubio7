@@ -7,7 +7,7 @@
 </br>
 
 🚀 I'm currently working as .NET Developer </br>
-📘 and learning Go 
+📘 and learning ![go](https://github.com/mrubio7/mrubio7/blob/main/golang.png)
 
 [Linkedin](http://www.linkedin.com/in/manuelrubioarias)
 
