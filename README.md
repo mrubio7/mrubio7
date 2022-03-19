@@ -7,7 +7,7 @@
 </br>
 
 🚀 I'm currently working as .NET Developer </br>
-📘 and learning ![go](https://github.com/mrubio7/mrubio7/blob/main/golang.png)
+📘 and learning [![go](https://github.com/mrubio7/mrubio7/blob/main/golang.png)](https://github.com/mrubio7/IrregularVerbs_go)
 
 [Linkedin](http://www.linkedin.com/in/manuelrubioarias)
 
