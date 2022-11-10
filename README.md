@@ -6,6 +6,6 @@
 
 </br>
 
-🚀 For the day I am .NET Developer and in the night I work in my side project written in Go and React </br> </br>
+🚀 By the day I am .NET Developer and at night I work on my side project written in Go and React </br> </br>
 
 [Linkedin](http://www.linkedin.com/in/manuelrubioarias)
