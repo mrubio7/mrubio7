@@ -6,6 +6,6 @@
 
 </br>
 
-🚀 I work as IoT Golang dev </br> </br>
+🚀 I work as IIoT Golang dev </br> </br>
 
 [Linkedin](http://www.linkedin.com/in/manuelrubioarias)
