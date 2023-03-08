@@ -6,6 +6,6 @@
 
 </br>
 
-🚀 By the day I am .NET Developer and at night I work on my side project written in Go and React </br> </br>
+🚀 I work as IoT Golang dev </br> </br>
 
 [Linkedin](http://www.linkedin.com/in/manuelrubioarias)
