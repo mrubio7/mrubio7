@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manu</h1>
 <h3 align="center">A passionate developer from Spain</h3>
+<h4 align="center">Currently focused in Go</h4>
+</br>
 
 - 📫 How to reach me **manuel.rubio.arias@gmail.com**
 
