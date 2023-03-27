@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Spain</h3>
 </br>
 
-- 📫 IIoT Golang developer
+- 👨‍💻 IIoT Golang developer
 - 📫 How to reach me **manuel.rubio.arias@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
