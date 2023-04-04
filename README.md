@@ -110,8 +110,12 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30" /> 
   </a> 
 	&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-			src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /> 
+  <a href="https://kubernetes.io/es/" target="_blank" rel="noreferrer">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="kubernetes" width="30" height="30" /> 
+  </a> 
+	&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /> 
   </a> 
 	&nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
