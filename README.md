@@ -2,7 +2,6 @@
 <h3 align="center">A passionate developer from Spain</h3>
 </br>
 
-- 👨‍💻 IIoT developer
 - 📫 How to reach me **manuel.rubio.arias@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -125,10 +124,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" />
   </a> 
-	&nbsp;
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="30" height="30" />
-  </a> 
+
 </p>
 
 <!--Resto no tech-->
